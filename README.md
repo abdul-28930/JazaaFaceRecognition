@@ -4,7 +4,13 @@ Jazaa Face Recognition is a Python-based application that uses computer vision t
 
 ## Table of Contents
 
-- To be added.
+- [Features](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [Installation](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [Usage](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [Dependencies](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [Contributing](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [License](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
+- [Contact](https://github.com/abdul-28930/JazaaFaceRecognition/blob/main/README.md#features)
 
 ## Features
 
